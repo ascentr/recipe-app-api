@@ -1,0 +1,4 @@
+[flake8]
+exclude = manage.py,app/settings.py,core/migrations,core/__pycache__
+
+
